@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zs3318
 - 👀 I’m interested in basketball
-- 🌱 I’m currently learning machine learning
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
